@@ -1,2 +1,2 @@
 > [!IMPORTANT]
-> Console.log("Hola Mundo")
+> # Console.log("Hola Mundo")
