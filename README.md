@@ -5,7 +5,8 @@
 
 
 
-<span class="#c5f015">Palabra de colores</span>
+![Paleta de colores](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
+
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
