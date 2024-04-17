@@ -2,11 +2,11 @@
 > # Console.log("Hola Mundo")
 
 <img src="https://raw.githubusercontent.com/EJCP3/EJCP3/output/snake.svg" alt="Snake animation" />
-###
 
-<h3 color="#c5f015" align="center">Paleta de colores</h3>
-###
-x
+
+
+## $\textcolor{#c5f015}{Paleta de colores}$
+
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
   <img width="12" />
