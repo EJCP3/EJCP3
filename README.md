@@ -5,7 +5,7 @@
 
 
 
-## $\textcolor{#c5f015}{P\a\l\e\t\a\ d\e \c\o\l\o\r\e\s}$
+## $\textcolor{#c5f015}{P\a\l\e\t\a\ de \c\o\l\o\r\e\s}$
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
