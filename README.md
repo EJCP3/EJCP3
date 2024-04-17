@@ -5,7 +5,11 @@
 
 
 
-<span style="color:#c5f015">Paleta de colores</span>: `#c5f015`
+###
+
+<h2 align="left">Paleta de colores</h2>
+
+###
 
 
 <div align="left">
