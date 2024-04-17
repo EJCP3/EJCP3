@@ -5,7 +5,7 @@
 
 
 
-![Paleta de colores](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
+<span style="color:#c5f015">Paleta de colores</span>: `#c5f015`
 
 
 <div align="left">
